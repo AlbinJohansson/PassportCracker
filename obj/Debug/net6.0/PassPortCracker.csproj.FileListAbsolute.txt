@@ -1,0 +1,15 @@
+C:\Repos\PassPortCracker\bin\Debug\net6.0\PassPortCracker.exe
+C:\Repos\PassPortCracker\bin\Debug\net6.0\PassPortCracker.deps.json
+C:\Repos\PassPortCracker\bin\Debug\net6.0\PassPortCracker.runtimeconfig.json
+C:\Repos\PassPortCracker\bin\Debug\net6.0\PassPortCracker.dll
+C:\Repos\PassPortCracker\bin\Debug\net6.0\PassPortCracker.pdb
+C:\Repos\PassPortCracker\obj\Debug\net6.0\PassPortCracker.csproj.AssemblyReference.cache
+C:\Repos\PassPortCracker\obj\Debug\net6.0\PassPortCracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos\PassPortCracker\obj\Debug\net6.0\PassPortCracker.AssemblyInfoInputs.cache
+C:\Repos\PassPortCracker\obj\Debug\net6.0\PassPortCracker.AssemblyInfo.cs
+C:\Repos\PassPortCracker\obj\Debug\net6.0\PassPortCracker.csproj.CoreCompileInputs.cache
+C:\Repos\PassPortCracker\obj\Debug\net6.0\PassPortCracker.dll
+C:\Repos\PassPortCracker\obj\Debug\net6.0\refint\PassPortCracker.dll
+C:\Repos\PassPortCracker\obj\Debug\net6.0\PassPortCracker.pdb
+C:\Repos\PassPortCracker\obj\Debug\net6.0\PassPortCracker.genruntimeconfig.cache
+C:\Repos\PassPortCracker\obj\Debug\net6.0\ref\PassPortCracker.dll
